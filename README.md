@@ -62,3 +62,8 @@ framework, Linux and network verification, performance and NIC behavior, CI/CD,
 containers, storage, driver debugging, observability, distributed testing, and
 an NVIDIA-oriented capstone. Each stage produces practical artifacts and
 measurable evidence of learning.
+
+
+## Git Workflow
+
+Changes should be developed on a feature branch, reviewed, and merged into `main`.
